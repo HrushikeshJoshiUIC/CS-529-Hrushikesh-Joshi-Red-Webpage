@@ -12,6 +12,6 @@ I’m a web development professional with over 2 years of experience specializin
 View my recent projects and work here [here](https://hrushikeshjoshi.netlify.app/)
 
 # Get in Touch 
-You can reach me via email at **hjosh@uic.edu**
+You can reach me via email at **hjosh@uic.edu** or at **hrushikesh.joshi.187@gmail.com**
 or
 send a message through my [LinkedIn](https://www.linkedin.com/in/hrushikesh-joshi/)
